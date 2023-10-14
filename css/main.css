@@ -1,0 +1,67 @@
+/*Emir Pekova/Student Number:8955893 */
+
+body {
+    font: normal italic bold 12px/1.5 Arial, Helvetica, sans-serif;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+}
+figcaption {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+q {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 1.2em; 
+}
+h2 {
+    font-variant: small-caps;
+    color: rgb(32, 125, 141);
+    font-size: 1.5em;a
+}
+
+main{
+    float: left;
+    width: 60vw;
+    height: 60vh;
+}
+
+aside {
+    float: right;
+    width: 30vw;
+    height: 80vh;
+}
+footer{
+    border: 4px solid #8823b170;
+    border-radius: 20px;
+    margin: 10px;
+    clear: both;
+}
+header{
+    border: 4px solid #6b27d8;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.structural{
+    margin: 40px;
+    text-align: left;
+}
+#para1{
+    color: rgb(221, 218, 32);
+}
+#para2{
+    color: rgb(209, 22, 22);
+}
+a:hover{
+    color: rgb(49, 211, 16);
+}
+footer p{
+    color: rgb(23, 26, 204);
+    font-size: 0.75em;
+}
+img {
+    border: 5px solid rgb(116, 30, 150);
+  }
